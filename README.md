@@ -1,5 +1,5 @@
 ﻿
-# ComfyUI_Fooocus
+# 2024-05-29 fork from ComfyUI_Fooocus
 
 
 ##  2024年2月19日发布v0.1.1测试版
